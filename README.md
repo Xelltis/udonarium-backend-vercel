@@ -1,5 +1,9 @@
 # udonarium-backend-vercel
 
+> [!IMPORTANT]
+> このリポジトリはアーカイブしました。開発は[udonarium_axe_backend](https://github.com/Xelltis/udonarium_axe_backend)の`apps/vercel`に移っています。
+> 新しくデプロイするときは、移転先のREADMEにあるDeployボタンを使ってください。
+
 [![CI](https://github.com/Xelltis/udonarium-backend-vercel/actions/workflows/ci.yml/badge.svg)](https://github.com/Xelltis/udonarium-backend-vercel/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 [![Runtime: Vercel Functions](https://img.shields.io/badge/runtime-Vercel%20Functions-000000.svg?logo=vercel&logoColor=white)](https://vercel.com/docs/functions/runtimes/node-js)
